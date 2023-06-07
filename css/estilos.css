@@ -1,8 +1,8 @@
 body{
     color: darkgreen;
     text-align: center;
-    font-family: arial;
-    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
     margin: 0;
     padding: 0;
 }
